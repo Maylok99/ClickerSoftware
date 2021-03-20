@@ -1,1 +1,1 @@
-# ClickerSoftware
+ -- Simple Auto Clicker, Easy To Understand C++
